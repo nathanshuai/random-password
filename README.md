@@ -10,7 +10,7 @@ numbers and characters.
 #To generate a random password. The password (a string) is composed of 4 random lowercase 
 #letters (a-z), 1 special character ('-', '_', '.', or '@'), and 4 random numbers (0-9), follow these steps :
 
-We ues ```For loops``` and  ```sort(() => Math.random() function ``` 
+We use ```For loops``` and  ```sort(() => Math.random() function ``` 
 
 ```javascript
 const alphabet = Array.from('abcdefghijklmnopqrstuvwxyz');
